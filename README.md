@@ -26,7 +26,7 @@ previous labs:
 - SSD1306.c
 - FFT.c
 - SysTickInts.c
-## Once these are in the working directory, flash main.c onto the board and open a PuTTy
+Once these are in the working directory, flash main.c onto the board and open a PuTTy
 terminal and configure it to read serially from the bot. From the PuTTy output, the user
 should see when the bot has successfully connected to the web-app and is ready to
 publish. From here, the bot should start following a wall and will stop after running over a white sheet of paper.
